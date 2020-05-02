@@ -1,6 +1,6 @@
-# app_restaurant
+# App Restaurant
 
-A new Flutter project.
+A new project from the Mega Gladiators team
 
 ## Getting Started
 

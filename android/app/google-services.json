@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323630272548",
+    "firebase_url": "https://app-restaurant-f4c49.firebaseio.com",
+    "project_id": "app-restaurant-f4c49",
+    "storage_bucket": "app-restaurant-f4c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323630272548:android:01e29a9fd2541b440688b1",
+        "android_client_info": {
+          "package_name": "br.com.mega.app_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323630272548-9afeedgnqknsf5nli900nvj312j21p7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEC_43XoapmZ8kzkGq3BYyb5WPs4_kU-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323630272548-9afeedgnqknsf5nli900nvj312j21p7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
